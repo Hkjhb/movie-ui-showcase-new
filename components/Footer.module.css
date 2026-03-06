@@ -1,0 +1,4 @@
+.siteFooter { border-top: 1px solid #1f1f1f; margin-top: 3rem; }
+.footerInner { padding: 1.4rem 0; display: flex; justify-content: space-between; color: var(--muted); flex-wrap: wrap; gap: 1rem; }
+.socials { display: flex; gap: 1rem; }
+.socials a:hover { color: var(--gold); }
